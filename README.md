@@ -1,4 +1,4 @@
-# Nodelab
+# WebXR_Template
 
 [https://alicelab.herokuapp.com/index.html](https://alicelab.herokuapp.com/index.html)
 
